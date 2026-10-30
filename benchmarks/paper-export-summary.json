@@ -1,0 +1,282 @@
+{
+  "date": "2026-10-21",
+  "batchCount": 10,
+  "distinctOutputFiles": 23,
+  "rasters": 13,
+  "pdfFiles": 9,
+  "singlePdfFiles": 8,
+  "combinedPdfFiles": 1,
+  "svgFiles": 1,
+  "loggedPdfAssemblyErrors": 4,
+  "batches": [
+    {
+      "id": "desktop-fresh-1x",
+      "route": "Desktop MCP",
+      "at": "2026-10-21T15:48:06.279Z",
+      "elapsedMs": null,
+      "activePageVerified": null,
+      "outputFiles": 4,
+      "statuses": {
+        "decoded-nonblank": 4
+      },
+      "pdfs": [],
+      "errors": []
+    },
+    {
+      "id": "desktop-fresh-pdf",
+      "route": "Desktop MCP",
+      "at": "2026-10-21T15:49:04.031Z",
+      "elapsedMs": 894,
+      "activePageVerified": null,
+      "outputFiles": 1,
+      "statuses": {
+        "valid-pdf": 1
+      },
+      "pdfs": [
+        {
+          "nodeId": "1-0",
+          "pageCount": 1,
+          "pages": [
+            {
+              "widthPt": 480,
+              "heightPt": 420,
+              "text": "Local editor verification\nFill\nNormal bold red normal\nInput value\n"
+            }
+          ]
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "desktop-warm-scale",
+      "route": "Desktop MCP",
+      "at": "2026-10-21T15:50:36.452Z",
+      "elapsedMs": 8812,
+      "activePageVerified": null,
+      "outputFiles": 5,
+      "statuses": {
+        "decoded-nonblank": 3,
+        "valid-pdf": 1,
+        "svg-markup": 1
+      },
+      "pdfs": [
+        {
+          "nodeId": "1-0",
+          "pageCount": 1,
+          "pages": [
+            {
+              "widthPt": 480,
+              "heightPt": 420,
+              "text": "Local editor verification\nFill\nNormal bold red normal\nInput value\n"
+            }
+          ]
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "desktop-warm-combined-pdf",
+      "route": "Desktop MCP",
+      "at": "2026-10-21T15:51:15.622Z",
+      "elapsedMs": 770,
+      "activePageVerified": null,
+      "outputFiles": 1,
+      "statuses": {
+        "valid-pdf": 1
+      },
+      "pdfs": [
+        {
+          "nodeId": "1-0",
+          "pageCount": 2,
+          "pages": [
+            {
+              "widthPt": 480,
+              "heightPt": 420,
+              "text": "Local editor verification\nFill\nNormal bold red normal\nInput value\n"
+            },
+            {
+              "widthPt": 480,
+              "heightPt": 420,
+              "text": "Local editor verification\nFill\nNormal bold red normal\nInput value\n"
+            }
+          ]
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "desktop-warm-repeat-with-asset",
+      "route": "Desktop MCP",
+      "at": "2026-10-21T15:52:51.184Z",
+      "elapsedMs": 5866,
+      "activePageVerified": null,
+      "outputFiles": 4,
+      "statuses": {
+        "decoded-nonblank": 2,
+        "valid-pdf": 2
+      },
+      "pdfs": [
+        {
+          "nodeId": "1-0",
+          "pageCount": 1,
+          "pages": [
+            {
+              "widthPt": 480,
+              "heightPt": 420,
+              "text": "Local editor verification\nFill\nNormal bold red normal\nInput value\n"
+            }
+          ]
+        },
+        {
+          "nodeId": "34H-0",
+          "pageCount": 1,
+          "pages": [
+            {
+              "widthPt": 480,
+              "heightPt": 420,
+              "text": "Local editor verification\nFill\nNormal bold red normal\nInput value\n"
+            }
+          ]
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "desktop-inactive-page-before-edit",
+      "route": "Desktop MCP",
+      "at": "2026-10-21T16:29:22.423Z",
+      "elapsedMs": null,
+      "activePageVerified": null,
+      "outputFiles": 1,
+      "statuses": {
+        "decoded-nonblank": 1
+      },
+      "pdfs": [],
+      "errors": [
+        {
+          "nodeId": "34W-0",
+          "error": "Error assembling PDF page"
+        }
+      ]
+    },
+    {
+      "id": "desktop-inactive-page-repeat",
+      "route": "Desktop MCP",
+      "at": "2026-10-21T16:32:30.640Z",
+      "elapsedMs": 3025,
+      "activePageVerified": null,
+      "outputFiles": 1,
+      "statuses": {
+        "decoded-nonblank": 1
+      },
+      "pdfs": [],
+      "errors": [
+        {
+          "nodeId": "34W-0",
+          "error": "Error assembling PDF page"
+        },
+        {
+          "nodeId": "34Z-0",
+          "error": "Error assembling PDF page"
+        }
+      ]
+    },
+    {
+      "id": "desktop-active-page-after-selection",
+      "route": "Desktop MCP",
+      "at": "2026-10-21T16:53:38.387Z",
+      "elapsedMs": 3907,
+      "activePageVerified": "p-3-0",
+      "outputFiles": 3,
+      "statuses": {
+        "decoded-nonblank": 1,
+        "valid-pdf": 2
+      },
+      "pdfs": [
+        {
+          "nodeId": "34W-0",
+          "pageCount": 1,
+          "pages": [
+            {
+              "widthPt": 480,
+              "heightPt": 420,
+              "text": "Local editor verification\nFill\nFill\nNormal bold red normal\nInput value\n"
+            }
+          ]
+        },
+        {
+          "nodeId": "34Z-0",
+          "pageCount": 1,
+          "pages": [
+            {
+              "widthPt": 87.119995,
+              "heightPt": 45.119999,
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "desktop-inactive-original-page-control",
+      "route": "Desktop MCP",
+      "at": "2026-10-21T16:57:12.961Z",
+      "elapsedMs": 3274,
+      "activePageVerified": "p-3-0",
+      "outputFiles": 1,
+      "statuses": {
+        "decoded-nonblank": 1
+      },
+      "pdfs": [],
+      "errors": [
+        {
+          "nodeId": "1-0",
+          "error": "Error assembling PDF page"
+        }
+      ]
+    },
+    {
+      "id": "desktop-active-page-repeat",
+      "route": "Desktop MCP",
+      "at": "2026-10-21T16:58:10.699Z",
+      "elapsedMs": 769,
+      "activePageVerified": "p-3-0",
+      "outputFiles": 2,
+      "statuses": {
+        "valid-pdf": 2
+      },
+      "pdfs": [
+        {
+          "nodeId": "34W-0",
+          "pageCount": 1,
+          "pages": [
+            {
+              "widthPt": 480,
+              "heightPt": 420,
+              "text": "Local editor verification\nFill\nFill\nNormal bold red normal\nInput value\n"
+            }
+          ]
+        },
+        {
+          "nodeId": "34Z-0",
+          "pageCount": 1,
+          "pages": [
+            {
+              "widthPt": 87.119995,
+              "heightPt": 45.119999,
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "errors": []
+    }
+  ],
+  "limits": [
+    "Pilot matrix only; earlier transparent raster failures remain in the prior report.",
+    "PDF files deduplicated by attempt and source path; combined PDF may have two returned node entries.",
+    "No-output errors are retained independently of successful files.",
+    "Decoder success is not a universal visual or export reliability claim."
+  ]
+}

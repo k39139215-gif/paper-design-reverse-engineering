@@ -1,0 +1,522 @@
+[
+  {
+    "run": "paper-4k-pan-run2",
+    "traceFile": "C:\\Users\\kartik\\Documents\\Codex\\2026-10-21\\i-x20\\work\\paper-4k-pan-run2-trace.json",
+    "metadataFile": "C:\\Users\\kartik\\Documents\\Codex\\2026-10-21\\i-x20\\work\\paper-4k-pan-run2-metadata.json",
+    "complete": true,
+    "truncated": false,
+    "markedSeconds": 30.130272,
+    "eventCount": 77649,
+    "eventCountWithinMarks": 77563,
+    "viewport": {
+      "count": 4021,
+      "height": 720,
+      "visibility": "visible",
+      "width": 1280
+    },
+    "nodeCount": 4021,
+    "inputCount": 1800,
+    "inputErrors": 0,
+    "heapMiB": {
+      "before": 140.19574356079102,
+      "after": 141.28333282470703
+    },
+    "groups": {
+      "DrawFrame": [
+        {
+          "source": "15520/17172/6",
+          "count": 1746,
+          "uniqueTimes": 1746,
+          "rateOverMarkedWindow": 57.94836501973828,
+          "intervalsMs": {
+            "p50": 14.475,
+            "p95": 28.818,
+            "p99": 35.49,
+            "max": 82.821,
+            "over50": 1,
+            "over100": 0
+          }
+        }
+      ],
+      "BeginFrame": [
+        {
+          "source": "15520/17172/6",
+          "count": 4341,
+          "uniqueTimes": 4341,
+          "rateOverMarkedWindow": 144.07437144941804,
+          "intervalsMs": {
+            "p50": 6.945,
+            "p95": 7.033,
+            "p99": 7.142,
+            "max": 7.43,
+            "over50": 0,
+            "over100": 0
+          }
+        }
+      ],
+      "DroppedFrame": [
+        {
+          "source": "15520/17172/6",
+          "count": 6,
+          "uniqueTimes": 6,
+          "rateOverMarkedWindow": 0.19913527498191852,
+          "intervalsMs": {
+            "p50": 2208.17,
+            "p95": 3076.382,
+            "p99": 3076.382,
+            "max": 3680.411,
+            "over50": 5,
+            "over100": 5
+          }
+        }
+      ]
+    },
+    "interpretation": "Chromium compositor trace markers during scripted input; not physical presentation or native Desktop FPS."
+  },
+  {
+    "run": "paper-4k-pan-run3",
+    "traceFile": "C:\\Users\\kartik\\Documents\\Codex\\2026-10-21\\i-x20\\work\\paper-4k-pan-run3-trace.json",
+    "metadataFile": "C:\\Users\\kartik\\Documents\\Codex\\2026-10-21\\i-x20\\work\\paper-4k-pan-run3-metadata.json",
+    "complete": true,
+    "truncated": false,
+    "markedSeconds": 30.114316,
+    "eventCount": 47164,
+    "eventCountWithinMarks": 47132,
+    "viewport": {
+      "authoredWidth": "1160px",
+      "camera": "matrix(0.54386, 0, 0, 0.54386, 392, 282)",
+      "count": 4021,
+      "first": {
+        "bottom": 314.6315670013428,
+        "height": 21.754369735717773,
+        "left": 402.877197265625,
+        "right": 1033.75439453125,
+        "top": 292.877197265625,
+        "width": 630.877197265625,
+        "x": 402.877197265625,
+        "y": 292.877197265625
+      },
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visibility": "visible"
+    },
+    "nodeCount": 4021,
+    "inputCount": 1800,
+    "inputErrors": 0,
+    "heapMiB": {
+      "before": 141.23252487182617,
+      "after": 141.7660026550293
+    },
+    "afterUi": {
+      "authoredWidth": "1160px",
+      "camera": "matrix(0.54386, 0, 0, 0.54386, 388, 280)",
+      "count": 4021,
+      "first": {
+        "bottom": 312.6315670013428,
+        "height": 21.754369735717773,
+        "left": 398.877197265625,
+        "right": 1029.75439453125,
+        "top": 290.877197265625,
+        "width": 630.877197265625,
+        "x": 398.877197265625,
+        "y": 290.877197265625
+      },
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visibility": "visible"
+    },
+    "groups": {
+      "DrawFrame": [
+        {
+          "source": "15520/17172/6",
+          "count": 1402,
+          "uniqueTimes": 1402,
+          "rateOverMarkedWindow": 46.55593040864684,
+          "intervalsMs": {
+            "p50": 17.127,
+            "p95": 34.778,
+            "p99": 49.875,
+            "max": 81.245,
+            "over50": 14,
+            "over100": 0
+          }
+        }
+      ],
+      "BeginFrame": [
+        {
+          "source": "15520/17172/6",
+          "count": 1807,
+          "uniqueTimes": 1807,
+          "rateOverMarkedWindow": 60.004683486750956,
+          "intervalsMs": {
+            "p50": 16.665,
+            "p95": 17.149,
+            "p99": 17.409,
+            "max": 18.239,
+            "over50": 0,
+            "over100": 0
+          }
+        }
+      ],
+      "DroppedFrame": [
+        {
+          "source": "15520/17172/6",
+          "count": 1,
+          "uniqueTimes": 1,
+          "rateOverMarkedWindow": 0.03320679772371386,
+          "intervalsMs": {
+            "p50": null,
+            "p95": null,
+            "p99": null,
+            "max": null,
+            "over50": 0,
+            "over100": 0
+          }
+        }
+      ]
+    },
+    "interpretation": "Chromium compositor trace markers during scripted input; not physical presentation or native Desktop FPS."
+  },
+  {
+    "run": "paper-4k-zoom-run1",
+    "traceFile": "C:\\Users\\kartik\\Documents\\Codex\\2026-10-21\\i-x20\\work\\paper-4k-zoom-run1-trace.json",
+    "metadataFile": "C:\\Users\\kartik\\Documents\\Codex\\2026-10-21\\i-x20\\work\\paper-4k-zoom-run1-metadata.json",
+    "complete": true,
+    "truncated": false,
+    "markedSeconds": 30.056285,
+    "eventCount": 102884,
+    "eventCountWithinMarks": 102720,
+    "viewport": {
+      "authoredWidth": "1160px",
+      "camera": "matrix(1.01864, 0, 0, 1.01864, 159, 175)",
+      "count": 4021,
+      "first": {
+        "bottom": 236.11834335327148,
+        "height": 40.74555587768555,
+        "left": 179.37278747558594,
+        "right": 1360.9940032958984,
+        "top": 195.3727874755859,
+        "width": 1181.6212158203125,
+        "x": 179.37278747558594,
+        "y": 195.3727874755859
+      },
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visibility": "visible"
+    },
+    "nodeCount": 4021,
+    "inputCount": 900,
+    "inputErrors": 0,
+    "heapMiB": {
+      "before": 141.51324844360352,
+      "after": 142.40711212158203
+    },
+    "afterUi": {
+      "authoredWidth": "1160px",
+      "camera": "matrix(1.01864, 0, 0, 1.01864, 159, 175)",
+      "count": 4021,
+      "first": {
+        "bottom": 236.11834335327148,
+        "height": 40.74555587768555,
+        "left": 179.37278747558594,
+        "right": 1360.9940032958984,
+        "top": 195.3727874755859,
+        "width": 1181.6212158203125,
+        "x": 179.37278747558594,
+        "y": 195.3727874755859
+      },
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visibility": "visible"
+    },
+    "groups": {
+      "DrawFrame": [
+        {
+          "source": "15520/17172/6",
+          "count": 1916,
+          "uniqueTimes": 1916,
+          "rateOverMarkedWindow": 63.747066545316564,
+          "intervalsMs": {
+            "p50": 9.967,
+            "p95": 17.643,
+            "p99": 28.016,
+            "max": 3009.846,
+            "over50": 13,
+            "over100": 8
+          }
+        }
+      ],
+      "BeginFrame": [
+        {
+          "source": "15520/17172/6",
+          "count": 3040,
+          "uniqueTimes": 3040,
+          "rateOverMarkedWindow": 101.14357113661919,
+          "intervalsMs": {
+            "p50": 6.944,
+            "p95": 7.038,
+            "p99": 7.136,
+            "max": 1006.98,
+            "over50": 9,
+            "over100": 9
+          }
+        },
+        {
+          "source": "13216/5940/1",
+          "count": 3,
+          "uniqueTimes": 3,
+          "rateOverMarkedWindow": 0.09981273467429524,
+          "intervalsMs": {
+            "p50": 6.944,
+            "p95": 6.944,
+            "p99": 6.944,
+            "max": 6.944,
+            "over50": 0,
+            "over100": 0
+          }
+        }
+      ],
+      "DroppedFrame": [
+        {
+          "source": "15520/17172/6",
+          "count": 1022,
+          "uniqueTimes": 1013,
+          "rateOverMarkedWindow": 34.00287161237658,
+          "intervalsMs": {
+            "p50": 20.791,
+            "p95": 41.676,
+            "p99": 69.402,
+            "max": 2006.948,
+            "over50": 31,
+            "over100": 8
+          }
+        }
+      ]
+    },
+    "interpretation": "Chromium compositor trace markers during scripted input; not physical presentation or native Desktop FPS."
+  },
+  {
+    "run": "paper-10k-pan-run1",
+    "traceFile": "C:\\Users\\kartik\\Documents\\Codex\\2026-10-21\\i-x20\\work\\paper-10k-pan-run1-trace.json",
+    "metadataFile": "C:\\Users\\kartik\\Documents\\Codex\\2026-10-21\\i-x20\\work\\paper-10k-pan-run1-metadata.json",
+    "complete": true,
+    "truncated": false,
+    "markedSeconds": 30.17007,
+    "eventCount": 48753,
+    "eventCountWithinMarks": 48597,
+    "viewport": {
+      "authoredWidth": "1160px",
+      "camera": "matrix(0.0281307, 0, 0, 0.0281307, 588, 50)",
+      "count": 10052,
+      "first": {
+        "bottom": 51.687843322753906,
+        "height": 1.1252288818359375,
+        "left": 588.5626220703125,
+        "right": 621.1942138671875,
+        "top": 50.56261444091797,
+        "width": 32.631591796875,
+        "x": 588.5626220703125,
+        "y": 50.56261444091797
+      },
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visibility": "visible"
+    },
+    "nodeCount": 10052,
+    "inputCount": 1800,
+    "inputErrors": 0,
+    "heapMiB": {
+      "before": 301.67215728759766,
+      "after": 309.1547393798828
+    },
+    "afterUi": {
+      "authoredWidth": "1160px",
+      "camera": "matrix(0.0281307, 0, 0, 0.0281307, 584, 48)",
+      "count": 10052,
+      "first": {
+        "bottom": 49.687843322753906,
+        "height": 1.1252288818359375,
+        "left": 584.5626220703125,
+        "right": 617.1942138671875,
+        "top": 48.56261444091797,
+        "width": 32.631591796875,
+        "x": 584.5626220703125,
+        "y": 48.56261444091797
+      },
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visibility": "visible"
+    },
+    "groups": {
+      "DrawFrame": [
+        {
+          "source": "15520/17172/6",
+          "count": 501,
+          "uniqueTimes": 501,
+          "rateOverMarkedWindow": 16.605861371882796,
+          "intervalsMs": {
+            "p50": 62.009,
+            "p95": 72.404,
+            "p99": 79.738,
+            "max": 83.103,
+            "over50": 456,
+            "over100": 0
+          }
+        }
+      ],
+      "BeginFrame": [
+        {
+          "source": "15520/17172/6",
+          "count": 4349,
+          "uniqueTimes": 4349,
+          "rateOverMarkedWindow": 144.14948324614429,
+          "intervalsMs": {
+            "p50": 6.944,
+            "p95": 6.988,
+            "p99": 7.06,
+            "max": 7.514,
+            "over50": 0,
+            "over100": 0
+          }
+        }
+      ],
+      "DroppedFrame": [
+        {
+          "source": "15520/17172/6",
+          "count": 3705,
+          "uniqueTimes": 3705,
+          "rateOverMarkedWindow": 122.80382511542068,
+          "intervalsMs": {
+            "p50": 6.944,
+            "p95": 13.924,
+            "p99": 20.82,
+            "max": 41.606,
+            "over50": 0,
+            "over100": 0
+          }
+        }
+      ]
+    },
+    "interpretation": "Chromium compositor trace markers during scripted input; not physical presentation or native Desktop FPS."
+  },
+  {
+    "run": "paper-10k-pan-run2",
+    "traceFile": "C:\\Users\\kartik\\Documents\\Codex\\2026-10-21\\i-x20\\work\\paper-10k-pan-run2-trace.json",
+    "metadataFile": "C:\\Users\\kartik\\Documents\\Codex\\2026-10-21\\i-x20\\work\\paper-10k-pan-run2-metadata.json",
+    "complete": true,
+    "truncated": false,
+    "markedSeconds": 30.157316,
+    "eventCount": 101063,
+    "eventCountWithinMarks": 100954,
+    "viewport": {
+      "authoredWidth": "1160px",
+      "camera": "matrix(1, 0, 0, 1, -1210, -16140)",
+      "count": 10052,
+      "first": {
+        "bottom": -16080,
+        "height": 40,
+        "left": -1190,
+        "right": -30,
+        "top": -16120,
+        "width": 1160,
+        "x": -1190,
+        "y": -16120
+      },
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visibility": "visible"
+    },
+    "nodeCount": 10052,
+    "inputCount": 1800,
+    "inputErrors": 0,
+    "heapMiB": {
+      "before": 434.55213165283203,
+      "after": 436.3148727416992
+    },
+    "afterUi": {
+      "authoredWidth": "1160px",
+      "camera": "matrix(1, 0, 0, 1, -1214, -16142)",
+      "count": 10052,
+      "first": {
+        "bottom": -16082,
+        "height": 40,
+        "left": -1194,
+        "right": -34,
+        "top": -16122,
+        "width": 1160,
+        "x": -1194,
+        "y": -16122
+      },
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visibility": "visible"
+    },
+    "groups": {
+      "DrawFrame": [
+        {
+          "source": "15520/17172/6",
+          "count": 1392,
+          "uniqueTimes": 1392,
+          "rateOverMarkedWindow": 46.157953844433635,
+          "intervalsMs": {
+            "p50": 20.649,
+            "p95": 34.735,
+            "p99": 43.253,
+            "max": 77.047,
+            "over50": 5,
+            "over100": 0
+          }
+        }
+      ],
+      "BeginFrame": [
+        {
+          "source": "15520/17172/6",
+          "count": 4353,
+          "uniqueTimes": 4353,
+          "rateOverMarkedWindow": 144.34308411265778,
+          "intervalsMs": {
+            "p50": 6.941,
+            "p95": 7.041,
+            "p99": 7.128,
+            "max": 7.478,
+            "over50": 0,
+            "over100": 0
+          }
+        }
+      ],
+      "DroppedFrame": [
+        {
+          "source": "15520/17172/6",
+          "count": 1431,
+          "uniqueTimes": 1431,
+          "rateOverMarkedWindow": 47.45117237886819,
+          "intervalsMs": {
+            "p50": 20.824,
+            "p95": 34.734,
+            "p99": 41.71,
+            "max": 69.371,
+            "over50": 4,
+            "over100": 0
+          }
+        }
+      ]
+    },
+    "interpretation": "Chromium compositor trace markers during scripted input; not physical presentation or native Desktop FPS."
+  }
+]

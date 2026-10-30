@@ -1,0 +1,808 @@
+[
+  {
+    "attempt": "desktop-fresh-1x",
+    "nodeId": "1-0",
+    "source": "C:\\Users\\kartik\\Downloads\\RE reference · imports and export (2).png",
+    "path": "C:\\Users\\kartik\\Documents\\Codex\\2026-10-21\\i-x20\\work\\paper-export-matrix\\desktop-fresh-1x-0.png",
+    "bytes": 20172,
+    "sha256": "57e4d0a167d8ce755f3b09480fd3f18faa9f98948a3194c7d21e4c630d9a7eec",
+    "format": "PNG",
+    "width": 640,
+    "height": 560,
+    "alphaExtrema": [
+      255,
+      255
+    ],
+    "transparentPixels": 0,
+    "fullyOpaquePixels": 358400,
+    "channelExtrema": [
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ],
+    "samples": {
+      "0,0": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "60,116": [
+        149,
+        171,
+        235,
+        255
+      ],
+      "180,116": [
+        229,
+        229,
+        229,
+        255
+      ],
+      "100,60": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    "status": "decoded-nonblank"
+  },
+  {
+    "attempt": "desktop-fresh-1x",
+    "nodeId": "1-0",
+    "source": "C:\\Users\\kartik\\Downloads\\RE reference · imports and export (1).jpg",
+    "path": "C:\\Users\\kartik\\Documents\\Codex\\2026-10-21\\i-x20\\work\\paper-export-matrix\\desktop-fresh-1x-1.jpg",
+    "bytes": 15778,
+    "sha256": "2afb2cbe338330cebed8d8e6ff62a5f4d9ef2eaefca7c824917dd56f8584d1e3",
+    "format": "JPEG",
+    "width": 640,
+    "height": 560,
+    "alphaExtrema": [
+      255,
+      255
+    ],
+    "transparentPixels": 0,
+    "fullyOpaquePixels": 358400,
+    "channelExtrema": [
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ],
+    "samples": {
+      "0,0": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "60,116": [
+        150,
+        171,
+        236,
+        255
+      ],
+      "180,116": [
+        229,
+        229,
+        229,
+        255
+      ],
+      "100,60": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    "status": "decoded-nonblank"
+  },
+  {
+    "attempt": "desktop-fresh-1x",
+    "nodeId": "1-0",
+    "source": "C:\\Users\\kartik\\Downloads\\RE reference · imports and export (2).webp",
+    "path": "C:\\Users\\kartik\\Documents\\Codex\\2026-10-21\\i-x20\\work\\paper-export-matrix\\desktop-fresh-1x-2.webp",
+    "bytes": 7512,
+    "sha256": "53abda91bcb134a23c7a358d0b8b2fa389b8b75240333719df9873cf2c266495",
+    "format": "WEBP",
+    "width": 640,
+    "height": 560,
+    "alphaExtrema": [
+      255,
+      255
+    ],
+    "transparentPixels": 0,
+    "fullyOpaquePixels": 358400,
+    "channelExtrema": [
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ],
+    "samples": {
+      "0,0": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "60,116": [
+        150,
+        172,
+        235,
+        255
+      ],
+      "180,116": [
+        229,
+        229,
+        229,
+        255
+      ],
+      "100,60": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    "status": "decoded-nonblank"
+  },
+  {
+    "attempt": "desktop-fresh-1x",
+    "nodeId": "1-0",
+    "source": "C:\\Users\\kartik\\Downloads\\RE reference · imports and export (1).avif",
+    "path": "C:\\Users\\kartik\\Documents\\Codex\\2026-10-21\\i-x20\\work\\paper-export-matrix\\desktop-fresh-1x-3.avif",
+    "bytes": 4546,
+    "sha256": "fb1860c4b9bb4ddb13db8c0caa55a58628b3ba8216c0c2ae2ccfbb9112ab83e0",
+    "format": "AVIF",
+    "width": 640,
+    "height": 560,
+    "alphaExtrema": [
+      255,
+      255
+    ],
+    "transparentPixels": 0,
+    "fullyOpaquePixels": 358400,
+    "channelExtrema": [
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ],
+    "samples": {
+      "0,0": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "60,116": [
+        149,
+        171,
+        236,
+        255
+      ],
+      "180,116": [
+        229,
+        229,
+        229,
+        255
+      ],
+      "100,60": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    "status": "decoded-nonblank"
+  },
+  {
+    "attempt": "desktop-fresh-pdf",
+    "nodeId": "1-0",
+    "source": "C:\\Users\\kartik\\Downloads\\RE reference · imports and export (1).pdf",
+    "path": "C:\\Users\\kartik\\Documents\\Codex\\2026-10-21\\i-x20\\work\\paper-export-matrix\\desktop-fresh-pdf-0.pdf",
+    "bytes": 32032,
+    "sha256": "d0bc31cca5784ea17d44da196177cb0fb3827981dd54b7e2188e1a825a507548",
+    "pages": [
+      {
+        "widthPt": 480.0,
+        "heightPt": 420.0,
+        "text": "Local editor verification\nFill\nNormal bold red normal\nInput value\n"
+      }
+    ],
+    "pageCount": 1,
+    "status": "valid-pdf"
+  },
+  {
+    "attempt": "desktop-warm-scale",
+    "nodeId": "1-0",
+    "source": "C:\\Users\\kartik\\Downloads\\RE reference · imports and export@0.5x.png",
+    "path": "C:\\Users\\kartik\\Documents\\Codex\\2026-10-21\\i-x20\\work\\paper-export-matrix\\desktop-warm-scale-0.png",
+    "bytes": 8127,
+    "sha256": "e93001a03a8d4e41e44b34ea86aef66b6b864e253d5d268b0e1cd38d120a28c2",
+    "format": "PNG",
+    "width": 320,
+    "height": 280,
+    "alphaExtrema": [
+      255,
+      255
+    ],
+    "transparentPixels": 0,
+    "fullyOpaquePixels": 89600,
+    "channelExtrema": [
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ],
+    "samples": {
+      "0,0": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "60,116": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "180,116": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "100,60": [
+        229,
+        229,
+        229,
+        255
+      ]
+    },
+    "status": "decoded-nonblank"
+  },
+  {
+    "attempt": "desktop-warm-scale",
+    "nodeId": "1-0",
+    "source": "C:\\Users\\kartik\\Downloads\\RE reference · imports and export@2x.png",
+    "path": "C:\\Users\\kartik\\Documents\\Codex\\2026-10-21\\i-x20\\work\\paper-export-matrix\\desktop-warm-scale-1.png",
+    "bytes": 59087,
+    "sha256": "43632f0b430ad5d5ee05a9cfbb2a4bcfea755a30d81c5c371facd2e0ec36d2fa",
+    "format": "PNG",
+    "width": 1280,
+    "height": 1120,
+    "alphaExtrema": [
+      255,
+      255
+    ],
+    "transparentPixels": 0,
+    "fullyOpaquePixels": 1433600,
+    "channelExtrema": [
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ],
+    "samples": {
+      "0,0": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "60,116": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "180,116": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "100,60": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    "status": "decoded-nonblank"
+  },
+  {
+    "attempt": "desktop-warm-scale",
+    "nodeId": "1-0",
+    "source": "C:\\Users\\kartik\\Downloads\\RE reference · imports and export@2x.webp",
+    "path": "C:\\Users\\kartik\\Documents\\Codex\\2026-10-21\\i-x20\\work\\paper-export-matrix\\desktop-warm-scale-2.webp",
+    "bytes": 16032,
+    "sha256": "12a5d6eed7ec3a6a2033c0108aaa5f1719f853e936b9d3d560972e83d48fca86",
+    "format": "WEBP",
+    "width": 1280,
+    "height": 1120,
+    "alphaExtrema": [
+      255,
+      255
+    ],
+    "transparentPixels": 0,
+    "fullyOpaquePixels": 1433600,
+    "channelExtrema": [
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ],
+    "samples": {
+      "0,0": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "60,116": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "180,116": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "100,60": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    "status": "decoded-nonblank"
+  },
+  {
+    "attempt": "desktop-warm-scale",
+    "nodeId": "1-0",
+    "source": "C:\\Users\\kartik\\Downloads\\RE reference · imports and export (2).pdf",
+    "path": "C:\\Users\\kartik\\Documents\\Codex\\2026-10-21\\i-x20\\work\\paper-export-matrix\\desktop-warm-scale-3.pdf",
+    "bytes": 32034,
+    "sha256": "5443a20612b7736d46404d83db6789d3798354636b15cd45c8ff7e7eb940372e",
+    "pages": [
+      {
+        "widthPt": 480.0,
+        "heightPt": 420.0,
+        "text": "Local editor verification\nFill\nNormal bold red normal\nInput value\n"
+      }
+    ],
+    "pageCount": 1,
+    "status": "valid-pdf"
+  },
+  {
+    "attempt": "desktop-warm-scale",
+    "nodeId": "H-0",
+    "source": "C:\\Users\\kartik\\Downloads\\Vector sample (1).svg",
+    "path": "C:\\Users\\kartik\\Documents\\Codex\\2026-10-21\\i-x20\\work\\paper-export-matrix\\desktop-warm-scale-4.svg",
+    "bytes": 287,
+    "sha256": "b565cd3e16184ec269ad14dce596a82fc81ff87779c1d02cc071f61a4edce961",
+    "status": "svg-markup",
+    "hasSvg": true,
+    "hasRect": true,
+    "hasCircle": true
+  },
+  {
+    "attempt": "desktop-warm-combined-pdf",
+    "nodeId": "1-0",
+    "source": "C:\\Users\\kartik\\Downloads\\Combined.pdf",
+    "path": "C:\\Users\\kartik\\Documents\\Codex\\2026-10-21\\i-x20\\work\\paper-export-matrix\\desktop-warm-combined-pdf-0.pdf",
+    "bytes": 73507,
+    "sha256": "c4658a496f8950b2ac54c689d06793ab8d62e4cec6dc8afc7845778c1208ad51",
+    "pages": [
+      {
+        "widthPt": 480.0,
+        "heightPt": 420.0,
+        "text": "Local editor verification\nFill\nNormal bold red normal\nInput value\n"
+      },
+      {
+        "widthPt": 480.0,
+        "heightPt": 420.0,
+        "text": "Local editor verification\nFill\nNormal bold red normal\nInput value\n"
+      }
+    ],
+    "pageCount": 2,
+    "status": "valid-pdf"
+  },
+  {
+    "attempt": "desktop-warm-combined-pdf",
+    "nodeId": "34H-0",
+    "source": "C:\\Users\\kartik\\Downloads\\Combined.pdf",
+    "path": "C:\\Users\\kartik\\Documents\\Codex\\2026-10-21\\i-x20\\work\\paper-export-matrix\\desktop-warm-combined-pdf-1.pdf",
+    "bytes": 73507,
+    "sha256": "c4658a496f8950b2ac54c689d06793ab8d62e4cec6dc8afc7845778c1208ad51",
+    "pages": [
+      {
+        "widthPt": 480.0,
+        "heightPt": 420.0,
+        "text": "Local editor verification\nFill\nNormal bold red normal\nInput value\n"
+      },
+      {
+        "widthPt": 480.0,
+        "heightPt": 420.0,
+        "text": "Local editor verification\nFill\nNormal bold red normal\nInput value\n"
+      }
+    ],
+    "pageCount": 2,
+    "status": "valid-pdf"
+  },
+  {
+    "attempt": "desktop-warm-repeat-with-asset",
+    "nodeId": "1-0",
+    "source": "C:\\Users\\kartik\\Downloads\\RE reference · imports and export (3).png",
+    "path": "C:\\Users\\kartik\\Documents\\Codex\\2026-10-21\\i-x20\\work\\paper-export-matrix\\desktop-warm-repeat-with-asset-0.png",
+    "bytes": 20172,
+    "sha256": "57e4d0a167d8ce755f3b09480fd3f18faa9f98948a3194c7d21e4c630d9a7eec",
+    "format": "PNG",
+    "width": 640,
+    "height": 560,
+    "alphaExtrema": [
+      255,
+      255
+    ],
+    "transparentPixels": 0,
+    "fullyOpaquePixels": 358400,
+    "channelExtrema": [
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ],
+    "samples": {
+      "0,0": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "60,116": [
+        149,
+        171,
+        235,
+        255
+      ],
+      "180,116": [
+        229,
+        229,
+        229,
+        255
+      ],
+      "100,60": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    "status": "decoded-nonblank"
+  },
+  {
+    "attempt": "desktop-warm-repeat-with-asset",
+    "nodeId": "1-0",
+    "source": "C:\\Users\\kartik\\Downloads\\RE reference · imports and export (3).pdf",
+    "path": "C:\\Users\\kartik\\Documents\\Codex\\2026-10-21\\i-x20\\work\\paper-export-matrix\\desktop-warm-repeat-with-asset-1.pdf",
+    "bytes": 32032,
+    "sha256": "2cd045df2d655d9725a6acee6451ae4c2cef11c5fa493bff081c191a2dcc0014",
+    "pages": [
+      {
+        "widthPt": 480.0,
+        "heightPt": 420.0,
+        "text": "Local editor verification\nFill\nNormal bold red normal\nInput value\n"
+      }
+    ],
+    "pageCount": 1,
+    "status": "valid-pdf"
+  },
+  {
+    "attempt": "desktop-warm-repeat-with-asset",
+    "nodeId": "34H-0",
+    "source": "C:\\Users\\kartik\\Downloads\\RE reference · imports and export (4).png",
+    "path": "C:\\Users\\kartik\\Documents\\Codex\\2026-10-21\\i-x20\\work\\paper-export-matrix\\desktop-warm-repeat-with-asset-2.png",
+    "bytes": 21588,
+    "sha256": "bdd032aed77e282477b1782ec987fe2bab3a5ff33d5a20d3d6aab51f79e1261f",
+    "format": "PNG",
+    "width": 640,
+    "height": 560,
+    "alphaExtrema": [
+      255,
+      255
+    ],
+    "transparentPixels": 0,
+    "fullyOpaquePixels": 358400,
+    "channelExtrema": [
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ],
+    "samples": {
+      "0,0": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "60,116": [
+        149,
+        171,
+        235,
+        255
+      ],
+      "180,116": [
+        229,
+        229,
+        229,
+        255
+      ],
+      "100,60": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    "status": "decoded-nonblank"
+  },
+  {
+    "attempt": "desktop-warm-repeat-with-asset",
+    "nodeId": "34H-0",
+    "source": "C:\\Users\\kartik\\Downloads\\RE reference · imports and export (4).pdf",
+    "path": "C:\\Users\\kartik\\Documents\\Codex\\2026-10-21\\i-x20\\work\\paper-export-matrix\\desktop-warm-repeat-with-asset-3.pdf",
+    "bytes": 42585,
+    "sha256": "a6c7d28cca25c9da39b93b07ab20004873bb999f1bab448084092a627d776bcf",
+    "pages": [
+      {
+        "widthPt": 480.0,
+        "heightPt": 420.0,
+        "text": "Local editor verification\nFill\nNormal bold red normal\nInput value\n"
+      }
+    ],
+    "pageCount": 1,
+    "status": "valid-pdf"
+  },
+  {
+    "attempt": "desktop-inactive-page-before-edit",
+    "nodeId": "34W-0",
+    "source": "C:\\Users\\kartik\\Downloads\\RE reference · imports and export (5).png",
+    "path": "C:\\Users\\kartik\\Documents\\Codex\\2026-10-21\\i-x20\\work\\paper-export-matrix\\desktop-inactive-page-before-edit-0.png",
+    "bytes": 20172,
+    "sha256": "57e4d0a167d8ce755f3b09480fd3f18faa9f98948a3194c7d21e4c630d9a7eec",
+    "format": "PNG",
+    "width": 640,
+    "height": 560,
+    "alphaExtrema": [
+      255,
+      255
+    ],
+    "transparentPixels": 0,
+    "fullyOpaquePixels": 358400,
+    "channelExtrema": [
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ],
+    "samples": {
+      "0,0": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "60,116": [
+        149,
+        171,
+        235,
+        255
+      ],
+      "180,116": [
+        229,
+        229,
+        229,
+        255
+      ],
+      "100,60": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    "status": "decoded-nonblank"
+  },
+  {
+    "attempt": "desktop-inactive-page-repeat",
+    "nodeId": "34W-0",
+    "source": "C:\\Users\\kartik\\Downloads\\RE reference · imports and export (6).png",
+    "path": "C:\\Users\\kartik\\Documents\\Codex\\2026-10-21\\i-x20\\work\\paper-export-matrix\\desktop-inactive-page-repeat-0.png",
+    "bytes": 20172,
+    "sha256": "57e4d0a167d8ce755f3b09480fd3f18faa9f98948a3194c7d21e4c630d9a7eec",
+    "format": "PNG",
+    "width": 640,
+    "height": 560,
+    "alphaExtrema": [
+      255,
+      255
+    ],
+    "transparentPixels": 0,
+    "fullyOpaquePixels": 358400,
+    "channelExtrema": [
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ],
+    "samples": {
+      "0,0": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "60,116": [
+        149,
+        171,
+        235,
+        255
+      ],
+      "180,116": [
+        229,
+        229,
+        229,
+        255
+      ],
+      "100,60": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    "status": "decoded-nonblank"
+  }
+]
